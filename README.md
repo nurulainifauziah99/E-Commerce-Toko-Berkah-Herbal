@@ -22,6 +22,7 @@ keranjang belanja, checkout, transaksi pembelian dan juga riwayat pembelian user
 Nama sql di rename menjadi "tokoherbal" terlebih dahulu agar dapat match pada program, atau anda bisa merubahnya dalam program menjadi "berkahh1_berkahherbal"
 
 user admin      : admin
+
 password admin  : admin
 
 untuk username user dan password user dapat dibuat dalam halaman admin
